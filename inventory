@@ -1,0 +1,7 @@
+[server]
+host1
+host2
+host3
+
+[client]
+laptop ansible_connection=local
